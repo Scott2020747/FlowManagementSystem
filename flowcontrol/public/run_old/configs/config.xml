@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<configs>
+	<input>
+		<rwy>14</rwy>
+		<landingrate>3</landingrate>
+		<ssperiod>3</ssperiod>
+		<defaultflowcontrolposition>3</defaultflowcontrolposition>
+	</input>	
+</configs>

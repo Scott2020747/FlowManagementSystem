@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><flight>
+    <flight>
+        <eta>2022-08-23 02:10:00</eta>
+        <sequenceType>auto</sequenceType>
+        <status>CONTROLLED</status>
+        <feederFix>...</feederFix>
+        <callsign>Test1</callsign>
+        <adep>YBCS</adep>
+        <ades>AYPY</ades>
+        <eobt>0000</eobt>
+        <dof>220823</dof>
+        <ac_type>B190</ac_type>
+        <wtur>H</wtur>
+        <frule>I</frule>
+        <atd>0000</atd>
+        <speed>400</speed>
+        <rfl>30000</rfl>
+        <regis>XXX</regis>
+        <etd>003900</etd>
+        <etd_dof>2022 6 27</etd_dof>
+        <route>BAD  OCW  QXIUGF  YVPKLETNRSHZ</route>
+        <other_info>VS UYM C GTFWBL XEZP KQJDRO IHAN</other_info>
+        <star>U1A32R</star>
+    </flight>
+    <flight>
+        <eta>2022-08-23 02:11:00</eta>
+        <sequenceType>auto</sequenceType>
+        <status>CONTROLLED</status>
+        <feederFix>...</feederFix>
+        <callsign>Test2</callsign>
+        <adep>YBCS</adep>
+        <ades>AYPY</ades>
+        <eobt>0000</eobt>
+        <dof>220823</dof>
+        <ac_type>B190</ac_type>
+        <wtur>H</wtur>
+        <frule>I</frule>
+        <atd>0000</atd>
+        <speed>400</speed>
+        <rfl>30000</rfl>
+        <regis>XXX</regis>
+        <etd>003900</etd>
+        <etd_dof>2022 6 27</etd_dof>
+        <route>BAD  OCW  QXIUGF  YVPKLETNRSHZ</route>
+        <other_info>VS UYM C GTFWBL XEZP KQJDRO IHAN</other_info>
+        <star>U1A32R</star>
+    </flight>
+    <flight>
+        <eta>2022-08-23 02:15:00</eta>
+        <sequenceType>auto</sequenceType>
+        <status>CONTROLLED</status>
+        <feederFix>...</feederFix>
+        <callsign>Test3</callsign>
+        <adep>YBCS</adep>
+        <ades>AYPY</ades>
+        <eobt>0000</eobt>
+        <dof>220823</dof>
+        <ac_type>B190</ac_type>
+        <wtur>H</wtur>
+        <frule>I</frule>
+        <atd>0000</atd>
+        <speed>400</speed>
+        <rfl>30000</rfl>
+        <regis>XXX</regis>
+        <etd>003900</etd>
+        <etd_dof>2022 6 27</etd_dof>
+        <route>BAD  OCW  QXIUGF  YVPKLETNRSHZ</route>
+        <other_info>VS UYM C GTFWBL XEZP KQJDRO IHAN</other_info>
+        <star>U1A32R</star>
+    </flight>
+</flight>

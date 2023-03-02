@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><flight>
+    <flight>
+        <eta>2022-06-29 03:38:56</eta>
+        <sequenceType>auto</sequenceType>
+        <status>CONTROLLED</status>
+        <feederFix>...</feederFix>
+        <callsign>MCT</callsign>
+        <adep>AYNZ</adep>
+        <ades>AYPY</ades>
+        <eobt>0232</eobt>
+        <dof>220629</dof>
+        <ac_type>DH8A </ac_type>
+        <wtur>M</wtur>
+        <frule>I</frule>
+        <atd>0241</atd>
+        <speed>240.0000</speed>
+        <rfl>17000.00</rfl>
+        <regis>...</regis>
+        <etd>023700</etd>
+        <etd_dof>2022 6 29</etd_dof>
+        <route>DCT NZ/N0240A170 DCT 0655S14642E 0805S14639E 0801S14624E 0808S14639E 0806S14625E KAIFU/N0240A170 DCT SAKTO S1A14L</route>
+        <other_info>PBN/S1O2 DOF/220629 REG/MCT OPR/PNGAIR PER/B RMK/FLIGHT CG1749</other_info>
+        <star>S1A14L</star>
+    </flight>
+</flight>

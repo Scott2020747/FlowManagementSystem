@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flight>
+<flight>
+<callsign>PXR</callsign>
+<adep>AYKV</adep>
+<ades>AYPY</ades>
+<eobt>0220</eobt>
+<dof>220629</dof>
+<ac_type>DH8D </ac_type>
+<wtur>M</wtur>
+<frule>I</frule>
+<sequenceType>auto</sequenceType>
+<atd>0223</atd>
+<speed>335.0000</speed>
+<rfl>24000.00</rfl>
+<regis>...</regis>
+<etd>022500</etd>
+<etd_dof>2022 6 29</etd_dof>
+<route>DCT KVG/N0335F240 0249S15047E 0308S15041E 0525S14956E OLRIG/N0335F240 RUPNO/N0335F240 0806S14830E 0742S14849E 0654S14806E 0736S14817E 0815S14711E 0825S14759E 0845S14748E 0857S147</route>
+<other_info>PBN/A1B1C1O2S2 NAV/RNP2 COM/SATCOM DOF/220629 REG/PXR CODE/898137 OPR/LINKPNG PER/C RMK/CASA RNP AMC PX271</other_info>
+<star>EAA14L</star>
+<eta>045848</eta>
+<status>CONTROLLED</status>
+<feederFix>...</feederFix>
+</flight>
+</flight>
+

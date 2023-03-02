@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Slotlist>
+    <Slot>
+        <eta>2022-08-23T02:12</eta>
+        <callsign>Test1</callsign>
+        <flightstatus>CONTROLLED</flightstatus>
+        <flightprocedure>auto</flightprocedure>
+        <adep>YBCS</adep>
+        <ades>AYPY</ades>
+        <feederFix>2022-08-23T01:56</feederFix>
+        <star>U1A32R</star>
+        <ac_type>B190</ac_type>
+        <wtur>H</wtur>
+        <regis>XXX</regis>
+        <dof>220823</dof>
+        <other_info>VS UYM C GTFWBL XEZP KQJDRO IHAN</other_info>
+        <route>BAD  OCW  QXIUGF  YVPKLETNRSHZ</route>
+        <etd_dof>2022 6 27</etd_dof>
+        <etd>003900</etd>
+        <rfl>30000</rfl>
+        <speed>400</speed>
+        <atd>0000</atd>
+        <eobt>0000</eobt>
+        <frule>I</frule>
+    </Slot>
+    <Slot>
+        <eta>2022-08-23T02:15</eta>
+        <callsign>Test2</callsign>
+        <flightstatus>CONTROLLED</flightstatus>
+        <flightprocedure>auto</flightprocedure>
+        <adep>YBCS</adep>
+        <ades>AYPY</ades>
+        <feederFix>2022-08-23T01:59</feederFix>
+        <star>U1A32R</star>
+        <ac_type>B190</ac_type>
+        <wtur>H</wtur>
+        <regis>XXX</regis>
+        <dof>220823</dof>
+        <other_info>VS UYM C GTFWBL XEZP KQJDRO IHAN</other_info>
+        <route>BAD  OCW  QXIUGF  YVPKLETNRSHZ</route>
+        <etd_dof>2022 6 27</etd_dof>
+        <etd>003900</etd>
+        <rfl>30000</rfl>
+        <speed>400</speed>
+        <atd>0000</atd>
+        <eobt>0000</eobt>
+        <frule>I</frule>
+    </Slot>
+    <Slot>
+        <eta>2022-08-23T02:18</eta>
+        <callsign>Test3</callsign>
+        <flightstatus>CONTROLLED</flightstatus>
+        <flightprocedure>auto</flightprocedure>
+        <adep>YBCS</adep>
+        <ades>AYPY</ades>
+        <feederFix>2022-08-23T02:02</feederFix>
+        <star>U1A32R</star>
+        <ac_type>B190</ac_type>
+        <wtur>H</wtur>
+        <regis>XXX</regis>
+        <dof>220823</dof>
+        <other_info>VS UYM C GTFWBL XEZP KQJDRO IHAN</other_info>
+        <route>BAD  OCW  QXIUGF  YVPKLETNRSHZ</route>
+        <etd_dof>2022 6 27</etd_dof>
+        <etd>003900</etd>
+        <rfl>30000</rfl>
+        <speed>400</speed>
+        <atd>0000</atd>
+        <eobt>0000</eobt>
+        <frule>I</frule>
+    </Slot>
+</Slotlist>

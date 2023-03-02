@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Slotlist>
+    <Slot>
+        <time>12:10</time>
+        <flightnumber>PX101</flightnumber>
+    </Slot>
+    <Slot>
+        <time>11:30</time>
+        <flightnumber>PX 102</flightnumber>
+    </Slot>
+    <Slot>
+        <time>5:40</time>
+        <flightnumber>PX 103</flightnumber>
+    </Slot>
+</Slotlist>
